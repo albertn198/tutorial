@@ -2,6 +2,6 @@
 <poster>tutorial xml</poster>
 <thumbnail></thumbnail>
 
-<name></name>
-<thumbnail></thumbnail>
-<link></link>
+<name>movies</name>
+<thumbnail>http://eventsonthehorizon.com/wp-content/uploads/2014/06/movies.jpg</thumbnail>
+<link>https://raw.githubusercontent.com/albertn198/tutorial/master/movies.xml</link>
